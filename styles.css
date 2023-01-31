@@ -15,7 +15,7 @@ body {
 
 .bg {
     display: flex;
-    position: absolute;
+    position: relative;
     width: 450px;
     height: 650px;
     align-items: center;
